@@ -57,5 +57,6 @@ end
      if index != 1 
        element << "s"
      end
- 
+ end
+ array
    end
